@@ -9,8 +9,9 @@ Here's how it works:
 
 
 ## TODO
-    - Fix date bugs.
-    - Add RSS support.
-    - Refactor and clear Go parser and template's code and commit it.
-    - Automate the process using Github Actions.
-    - Linkback to hoomepage.
+
+    - [ ] Fix date bugs. (Ordering or posts fixed.)
+    - [ ] Add RSS Feed support.
+    - [ ] Refactor and clear Go parser and template's code and commit it.
+    - [x] Linkback to homepage.
+    - [ ] Automate blog generation process using Github Actions.
