@@ -4,17 +4,65 @@
   <id>https://anuragk.com/linknotes</id>
   <link rel="alternate" href="https://anuragk.com/linknotes"></link>
   <link rel="self" href="https://anuragk.com/linknotes/feed.atom"></link>
-  <updated>2025-03-20T22:54:58+05:30</updated>
+  <updated>2025-03-28T15:24:04+05:30</updated>
   <author>
     <name>Anurag</name>
   </author>
   <entry>
-    <title>Career in times of AI</title>
-    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Career in times of AI"></link>
-    <id>https://anuragk.com/linknotes#Career in times of AI</id>
-    <published>2025-03-17T00:00:00Z</published>
-    <updated>2025-03-17T00:00:00Z</updated>
-    <content type="html"><![CDATA[<h2>Career in times of AI</h2><p>Source: <a href="https://news.ycombinator.com/item?id=43376684">news.ycombinator.com</a></p><p>Tags: tech</p><p>This comment by rakejake talks about the fear-mongering about AI taking everyone's job. </p><p>It's not the AI, that's replacing the jobs. It's the upper echelon which thinks that AI will replace the jobs, and that's enough to the replace jobs. Just like Return to office mandate.</p><blockquote>"decision-makers can remain irrational longer than you can remain solvent" - Very correct. Whether or not AI actually comes for your job, the fact that enough people at the top think so is enough to cause trouble.</blockquote>]]></content>
+    <title>What is a story?</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#What is a story?"></link>
+    <id>https://anuragk.com/linknotes#What is a story?</id>
+    <published>2025-03-28T00:00:00Z</published>
+    <updated>2025-03-28T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>What is a story?</h2><p>Source: <a href="https://fs.blog/knowledge-project-podcast/matthew-dicks/">fs.blog</a></p><p>Tags: non-tech</p><p>I was reading transcript of this podcast and this snippet from Matthew Dicks, a storyteller, jumped out to me:</p><blockquote>I think we can start by thinking about what is a story and what isn't a story, because most people don't tell stories. Most people think of a story as some stuff happened over the course of time and now I'm going to tell you about that usually chronologically and that will amount to a story and that really is just reporting on your life and no one actually wants you to report on your life. You know, other than maybe your mother and your spouse might be required to listen. It's just a simple accounting of your day or your week or your month and that's not interesting and it's not a story. So a story is about change over time. Usually it's sort of a realization like - I used to think one thing and now I think another thing  - that's story. Most stories are transformational, meaning I once was one kind of person then some stuff happened and now I'm actually an authentically different kind of person.</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>Claude isn&#39;t a next word predictor</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Claude isn&#39;t a next word predictor"></link>
+    <id>https://anuragk.com/linknotes#Claude isn&#39;t a next word predictor</id>
+    <published>2025-03-28T00:00:00Z</published>
+    <updated>2025-03-28T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>Claude isn't a next word predictor</h2><p>Source: <a href="https://www.anthropic.com/research/tracing-thoughts-language-model">www.anthropic.com</a></p><p>Tags: tech</p><p>Boy o boy. So much thinking of LLMs are just next-word-predictor! This whole article is a gem. It also explains, why LLMs can seemingly do math, despite just seeming to generate next word.</p><blockquote>Claude will plan what it will say many words ahead, and write to get to that destination. We show this in the realm of poetry, where it thinks of possible rhyming words in advance and writes the next line to get there. This is powerful evidence that even though models are trained to output one word at a time, they may think on much longer horizons to do so.</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>Everyone has the same face, literary</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Everyone has the same face, literary"></link>
+    <id>https://anuragk.com/linknotes#Everyone has the same face, literary</id>
+    <published>2025-03-28T00:00:00Z</published>
+    <updated>2025-03-28T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>Everyone has the same face, literary</h2><p>Source: <a href="https://www.alexmurrell.co.uk/articles/the-age-of-average">www.alexmurrell.co.uk</a></p><p>Tags: non-tech</p><p>The way we look and the way we dress has begun to converge upon a single style, among lots of other things. Can I call it Airbnb-fication of faces.</p><blockquote>In December 2019 the journalist Jia T. set about investigating a troubling trend. Many celebrities and influencers had started to resemble each other. </blockquote><blockquote>“This past summer, I booked a plane ticket to Los Angeles with the hope of investigating what seems likely to be one of the oddest legacies of our rapidly expiring decade: the gradual emergence, among professionally beautiful women, of a single, cyborgian face. It’s a young face, of course, with poreless skin and plump, high cheekbones. It has catlike eyes and long, cartoonish lashes; it has a small, neat nose and full, lush lips. It looks at you coyly but blankly, as if its owner has taken half a Klonopin and is considering asking you for a private-jet ride to Coachella.”</blockquote><blockquote>The look that Tolentino is describing is the result of (at least) three conspiring trends. The growing market for injectable treatments is driving a trend for physical enhancements. The rise of apps such as FaceTune is driving a trend for digital enhancements. And make-up techniques such as “strobing” and “contouring” are driving a trend for cosmetic enhancements. Over the last decade, these trends have developed in parallel, each feeding and fueling the other.</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>Sheeple</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Sheeple"></link>
+    <id>https://anuragk.com/linknotes#Sheeple</id>
+    <published>2025-03-28T00:00:00Z</published>
+    <updated>2025-03-28T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>Sheeple</h2><p>Source: <a href="https://www.experimental-history.com/p/be-myself-id-rather-die">www.experimental-history.com</a></p><p>Tags: non-tech</p><p>Adam as always, writing amazing stuff. This time about taking offbeat decisions.</p><blockquote>I guess what I’m saying is: everybody tells you to be yourself, but nobody tells you it’ll make you feel insane.</blockquote><blockquote>Maybe there are some lucky folks out there who are living Lowest Common Denominators, whose desires just magically line up with everything that is popular and socially acceptable, who would be happy living a life that could be approved by committee. But almost everyone is at least a little bit weird, and most people are very weird. If you’ve got even an ounce of strange inside you, at some point the right decision for you is not going to be the sensible one. You’re going to have to do something inadvisable, something alienating and illegible, something that makes your friends snicker and your mom complain. There will be a decision tucked behind glass that’s marked “ARE YOU SURE YOU WANT TO DO THIS?”, and you’ll have to shatter it with your elbow and reach through.</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>Radiating Intent</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Radiating Intent"></link>
+    <id>https://anuragk.com/linknotes#Radiating Intent</id>
+    <published>2025-03-22T00:00:00Z</published>
+    <updated>2025-03-22T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>Radiating Intent</h2><p>Source: <a href="https://medium.com/@ElizAyer/dont-ask-forgiveness-radiate-intent-d36fd22393a3">medium.com</a></p><p>Tags: tech</p><p>Just like giving indicator every time you turn - in car, radiate intent before you start working on something.</p><blockquote>Here are 4 reasons that radiating intent is better than begging forgiveness:</blockquote><blockquote>- Radiating intent gives a chance for someone to stop you before you do a thing, in case it’s truly harmful</blockquote><blockquote>-Radiating intent gives people who have information, or want to help, an opening to participate</blockquote><blockquote>-Radiating intent leaves better evidence of your good will</blockquote><blockquote>-Radiating intent shows others that adventurous behavior is acceptable in the org.</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>Gallows Humor?</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Gallows Humor?"></link>
+    <id>https://anuragk.com/linknotes#Gallows Humor?</id>
+    <published>2025-03-22T00:00:00Z</published>
+    <updated>2025-03-22T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>Gallows Humor?</h2><p>Source: <a href="https://www.bluejeanscable.com/legal/mcp/response041408.pdf">www.bluejeanscable.com</a></p><p>Tags: non-tech</p><p>This was part of the response from owner of BJC to Monster Cables, when they were accused of a patent infringement. Whole letter is a gem of dry sarcasm, but this one bit is my favorite:</p><blockquote>Not only am I unintimidated by litigation; I sometimes rather miss it.</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>Career in the time of AI</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Career in the time of AI"></link>
+    <id>https://anuragk.com/linknotes#Career in the time of AI</id>
+    <published>2025-03-22T00:00:00Z</published>
+    <updated>2025-03-22T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>Career in the time of AI</h2><p>Source: <a href="https://news.ycombinator.com/item?id=43376684">news.ycombinator.com</a></p><p>Tags: tech</p><p>This comment by rakejake talks about the fear-mongering about AI taking everyone's job. </p><p>It's not the AI, that's replacing the jobs. It's the upper echelon which thinks that AI will replace the jobs, and that's enough to the replace jobs. Just like Return to office mandate.</p><blockquote>"decision-makers can remain irrational longer than you can remain solvent" - Very correct. Whether or not AI actually comes for your job, the fact that enough people at the top think so is enough to cause trouble.</blockquote>]]></content>
   </entry>
   <entry>
     <title>Technology is skipping from one hype cycle to next!</title>
@@ -22,7 +70,7 @@
     <id>https://anuragk.com/linknotes#Technology is skipping from one hype cycle to next!</id>
     <published>2025-03-17T00:00:00Z</published>
     <updated>2025-03-17T00:00:00Z</updated>
-    <content type="html"><![CDATA[<h2>Technology is skipping from one hype cycle to next!</h2><p>Source: <a href="https://scottboms.com/documenting/through-lines-247">scottboms.com</a></p><p>Tags: tech</p><p>Working is technology isn't the way to fulfilment.</p><blockquote>I miss being excited by technology. I wish I could see a way out of the endless hype cycles that continue to elicit little more than cynicism from me. The version of technology that we’re mostly being sold today has almost nothing to do with improving lives, but instead stuffing the pockets of those who already need for nothing. It’s not making us smarter. It’s not helping heal a damaged planet. It’s not making us happier or more generous towards each other. And it’s entrenched in everything — meaning a momentous challenge to re-wire or meticulously disconnect. I’m slowly finding my own ways of breaking free to regain a sense of self and purpose. I’ve felt adrift the last few weeks and hopefully some planned activities this weekend will help guide me back to shore. I also tend to be a bit morose around my birthday so it might just be that.</blockquote>]]></content>
+    <content type="html"><![CDATA[<h2>Technology is skipping from one hype cycle to next!</h2><p>Source: <a href="https://scottboms.com/documenting/through-lines-247">scottboms.com</a></p><p>Tags: tech</p><p>In recent times, working in technology isn't the way to fulfilment.</p><blockquote>I miss being excited by technology. I wish I could see a way out of the endless hype cycles that continue to elicit little more than cynicism from me. The version of technology that we’re mostly being sold today has almost nothing to do with improving lives, but instead stuffing the pockets of those who already need for nothing. It’s not making us smarter. It’s not helping heal a damaged planet. It’s not making us happier or more generous towards each other. And it’s entrenched in everything — meaning a momentous challenge to re-wire or meticulously disconnect. I’m slowly finding my own ways of breaking free to regain a sense of self and purpose. I’ve felt adrift the last few weeks and hopefully some planned activities this weekend will help guide me back to shore. I also tend to be a bit morose around my birthday so it might just be that.</blockquote>]]></content>
   </entry>
   <entry>
     <title>Why are mobile websites terrible?</title>
