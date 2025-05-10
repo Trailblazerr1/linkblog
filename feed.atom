@@ -4,10 +4,61 @@
   <id>https://anuragk.com/linknotes</id>
   <link rel="alternate" href="https://anuragk.com/linknotes"></link>
   <link rel="self" href="https://anuragk.com/linknotes/feed.atom"></link>
-  <updated>2025-04-30T22:15:50+05:30</updated>
+  <updated>2025-05-10T15:41:39+05:30</updated>
   <author>
     <name>Anurag</name>
   </author>
+  <entry>
+    <title>Burnout</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Burnout"></link>
+    <id>https://anuragk.com/linknotes#Burnout</id>
+    <published>2025-05-10T00:00:00Z</published>
+    <updated>2025-05-10T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>Burnout</h2><p>Source: <a href="https://terriblesoftware.org/2024/12/20/burnout-%e2%89%a0-working-too-much/">terriblesoftware.org</a></p><p>Tags: non-tech</p><p>The whole article is great. So I've copied almost all of it here. I have observed this 'burnout' with me and my friends, but wasn't able to put it into words. This is exactly what I had in my mind.</p><blockquote>“It’s not enough to be busy; so are the ants. The question is: What are we busy about?” — Henry David Thoreau</blockquote><blockquote>If burnout was a natural byproduct of working too much (or too hard, or for too many hours), we’d see every founder/C-level suffering from it. And yet… they’re generally doing just fine; ICs and middle managers, on the other hand, are usually taking the biggest hit.</blockquote><blockquote>Preventing burnout from happening on our teams means that first we need to identify the real causes of it, otherwise we’re just sending people to long vacations hoping the problem fixes itself. (It won’t.)</blockquote><blockquote>Each case is different (of course), but from what I’ve seen with engineering teams over time, burnout usually isn’t about work’s volume—it’s about a lack of purpose or agency.</blockquote><blockquote>If an engineer can’t see how their hard work supports the company’s objectives, helps real users, or improves their own skill set, every hour feels heavier—pointless, even. And when people feel they have no input into what they do, that their tasks are simply “assigned” to them rather than chosen, any form of intrinsic motivation goes to the toilet.</blockquote><blockquote>Let me be clear: working too hard/for too long can obviously lead to burnout, but again, more often than not the entire story doesn’t end there. In many cases, burnout emerges when smart, passionate individuals find themselves working on tasks that feel meaningless or misaligned with their strengths and interests. They might be coding late into the night, but the real energy drain is when they ask themselves: Why am I doing this?</blockquote><blockquote>“Ok, I’m sold. What can I do about it?”</blockquote><blockquote>You can start by considering whether the people on your team:</blockquote><blockquote>Have control over the projects they work on;</blockquote><blockquote>Feel connected to the outcomes they produce;</blockquote><blockquote>Understand why their contributions matter;</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>Adulting</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Adulting"></link>
+    <id>https://anuragk.com/linknotes#Adulting</id>
+    <published>2025-05-10T00:00:00Z</published>
+    <updated>2025-05-10T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>Adulting</h2><p>Source: <a href="https://www.hgreer.com/PlayingInTheCreek/">www.hgreer.com</a></p><p>Tags: non-tech</p><p>Growing up means losing your innocence, being more efficient. One tends not to take the longer route, once one knows the shortcut. Taking the longer route is akin to just doing things for play and joy, not optimising it for outcome.</p><blockquote>The author reminisces about childhood activities, specifically damming a creek using rocks and leaves, highlighting the joy of discovery and play.</blockquote><blockquote>A pivotal moment occurs when the author realizes that using a shovel is a more effective method for damming, symbolizing a loss of innocence as simpler, more playful approaches are replaced by adult solutions.</blockquote><blockquote>The author discusses how growing up often leads to restrictions on play and exploration. Activities that were once carefree become regulated and serious, as illustrated by experiences with K'Nex catapults and sparklers.</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>Accountability</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Accountability"></link>
+    <id>https://anuragk.com/linknotes#Accountability</id>
+    <published>2025-05-10T00:00:00Z</published>
+    <updated>2025-05-10T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>Accountability</h2><p>Source: <a href="https://250bpm.substack.com/p/accountability-sinks">250bpm.substack.com</a></p><p>Tags: non-tech</p><blockquote>Someone – an airline gate attendant, for example – tells you some bad news; perhaps you’ve been bumped from the flight in favour of someone with more frequent flyer points. You start to complain and point out how much you paid for your ticket, but you’re brought up short by the undeniable fact that the gate attendant can’t do anything about it. You ask to speak to someone who can do something about it, but you’re told that’s not company policy.</blockquote><blockquote>The unsettling thing about this conversation is that you progressively realise that the human being you are speaking to is only allowed to follow a set of processes and rules that pass on decisions made at a higher level of the corporate hierarchy. It’s often a frustrating experience; you want to get angry, but you can’t really blame the person you’re talking to. Somehow, the airline has constructed a state of affairs where it can speak to you with the anonymous voice of an amorphous corporation, but you have to talk back to it as if it were a person like yourself.</blockquote><blockquote>Bad people react to this by getting angry at the gate attendant; good people walk away stewing with thwarted rage.</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>TDD strikes again!</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#TDD strikes again!"></link>
+    <id>https://anuragk.com/linknotes#TDD strikes again!</id>
+    <published>2025-05-10T00:00:00Z</published>
+    <updated>2025-05-10T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>TDD strikes again!</h2><p>Source: <a href="https://theaxolot.wordpress.com/2024/12/08/what-tdd-is-actually-good-for/">theaxolot.wordpress.com</a></p><p>Tags: tech</p><p>I am reading too much content about TDD and trying to makeup a framework of when to use it.</p><blockquote>There are roughly 3 kinds of programming work:</blockquote><blockquote>Maintenance lends itself well to TDD. </blockquote><blockquote>Brownfield work also lends itself well to TDD, but less so. It depends on the complexity of the new feature, and the extendibility of the codebase. You have to use your best judgment. If it seems like a feature requires significant changes to existing modules, I’d lean on traditional development. However, if you see a gentle path to implementing this new feature, you might reap more benefits with TDD.</blockquote><blockquote>Greenfield development is a big no-no for TDD (at first). I don’t care how confident you are in what your interfaces will be. You’re not that good. Everything you think you know will change in the exploratory phase of a new project as you code, and you’ll strain your sanity by rewriting tests over and over again. Don’t do this, no matter how much your TDD idol pontificates its benefits.</blockquote><blockquote>BuT iF yOuR’e ReWrItInG yOuR tEsTs So MuCh, YoU’rE nOt PrAcTiSiNg TdD pRoPeRlY.” I don’t wanna hear it. If your initial tests are such that you barely end up having to rewrite them while mapping out the unknowns of a new project, then one or more of the following is true:</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>Is TDD dead, long live TDD!</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Is TDD dead, long live TDD!"></link>
+    <id>https://anuragk.com/linknotes#Is TDD dead, long live TDD!</id>
+    <published>2025-05-10T00:00:00Z</published>
+    <updated>2025-05-10T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>Is TDD dead, long live TDD!</h2><p>Source: <a href="https://news.ycombinator.com/item?id=24281195">news.ycombinator.com</a></p><p>Tags: tech</p><p>There are two types code we write:</p><blockquote>1. Application code -- Fast changing, poorly specified code. You need to have a rapid development cycle, "discovering" what the customer wants. Your #1 job is pleasing the customer, as quickly, and as reliably, as possible.</blockquote><blockquote>2. Library code -- Slow changing, highly specified code. You have a long, conservative development cycle. Your #1 job is supporting application programmers.</blockquote><blockquote>TDD probably works for #2, less so for #1. Furthermore, we all dream of being library developers (that our code and specifications are stable, and that our code can last decades). Alas, most of us are Application developers, and the lifespan of our code isn't really that long.</blockquote><blockquote>Recognizing the lifespan of your code, as well as the innate goals of your team (quick and dirty application style, or slow and careful library style) is important.
+</blockquote><blockquote>...[Another comment with: A counterpoint to above.]...
+
+I think this distinction is harmful. Your application code should include areas that function as "library code." We do this at work with an explicit UI library that we package separately, but there's no reason it needs to be packaged separately, just create directories that represent some library-esque element of your application and heavily test it and write docs for it, like you would a library.</blockquote>]]></content>
+  </entry>
+  <entry>
+    <title>Liar LAIr</title>
+    <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Liar LAIr"></link>
+    <id>https://anuragk.com/linknotes#Liar LAIr</id>
+    <published>2025-05-10T00:00:00Z</published>
+    <updated>2025-05-10T00:00:00Z</updated>
+    <content type="html"><![CDATA[<h2>Liar LAIr</h2><p>Source: <a href="https://www.anthropic.com/research/reasoning-models-dont-say-think">www.anthropic.com</a></p><p>Tags: tech</p><p>Anthropic labs are doing some great research. Previously, it was how that LLMs are a planner than just being a next word predictor. Now, it's that LLMs are liar.  LLMs see, LLMs do, I guess.</p><blockquote>A study conducted by Anthropic's Alignment Science team tested the faithfulness of these models by providing hints during evaluations. The results showed that models often failed to acknowledge these hints in their reasoning, with Claude mentioning hints only 25% of the time and DeepSeek R1 39% of the time.</blockquote><blockquote>Models rarely admitted to using these shortcuts, instead fabricating rationales for incorrect answers.</blockquote>]]></content>
+  </entry>
   <entry>
     <title>Relocation Bonus?</title>
     <link rel="alternate" type="text/html" href="https://anuragk.com/linknotes#Relocation Bonus?"></link>
